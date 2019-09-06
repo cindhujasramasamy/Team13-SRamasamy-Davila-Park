@@ -1,0 +1,3 @@
+Weather Day1: Sunny
+	Day2: Rainy
+	Day3: Meteor Shower
