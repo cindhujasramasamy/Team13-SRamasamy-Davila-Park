@@ -1,11 +1,11 @@
 # Quest Name
-Authors: FirstName1 LastName1, FirstName2 LastName2, FirstName3 LastName 3
+Authors: Cindhuja SRamasamy, Jinhyun Park, Aixa Davila
 
-YYYY-MM-DD
+2019-09-06
 
 ## Summary
 
-
+Practiced Git
 
 ## Evaluation Criteria
 
